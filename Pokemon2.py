@@ -1,3 +1,8 @@
+#Script en python que consulta el api de pokemon
+#para listar los nombres de pokemon pero se le agrego
+#interaccion para que listara pokemons segun se vaya requiriendo
+#Contribuyo: Diego Andres Rodriguez Lugo
+#Fecha: 15/09/2022
 import requests
 #nombre:Diego Andres Rodriguez Lugo
 #matricula:182020
